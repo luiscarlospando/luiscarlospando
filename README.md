@@ -1,5 +1,5 @@
 ### Hey, soy [Luis Carlos Pando](https://luiscarlospando.com) 👋
-Puedes leer mi [Luis Carlos Pando](https://blogluiscarlospando.com) o checarme en [Luis Carlos Pando](https://www.twitter.com/mijo).
+Puedes leer mi [blog](https://blogluiscarlospando.com) o checarme en [Twitter](https://www.twitter.com/mijo).
 
 <!--
 **luiscarlospando/luiscarlospando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
