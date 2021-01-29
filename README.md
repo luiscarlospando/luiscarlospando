@@ -1,8 +1,8 @@
 ![alt text](https://luiscarlospando.com/assets/images/logo.svg "Logo")
 ### Hey, soy [Luis Carlos Pando](https://luiscarlospando.com) 👋
-Hola y bienvenido. Me llamo Luis Carlos y vivo en Chihuahua, México con mi hermosa esposa Alejandra ❤️. Soy un vato que escucha punk rock, hace cosas para el Internet y en sus ratos libres disfruta jugar videojuegos 🕹️.
+Hola y bienvenido. Me llamo Luis Carlos Pando (aka "Mijo") un vato de Chihuahua, México, que vive con su bella esposa Alejandra ❤️. Me dedico a hacer cosas para el Internet y en mis ratos libres disfruto escuchar banditas tipo hardcore/whatevercore. También disfruto mucho jugar videojuegos 🕹️. 
 
-Puedes saber más sobre mí en mi [sitio](https://luiscarlospando.com) y en mi [blog](https://blog.luiscarlospando.com). Si quieres, también puedes checarme en [Twitter](https://www.twitter.com/mijo).
+Puedes saber más sobre mí en mi [sitio](https://luiscarlospando.com) y en mi [blog](https://blog.luiscarlospando.com). También puedes interactuar conmigo en [Twitter](https://www.twitter.com/mijo).
 
 <!--
 **luiscarlospando/luiscarlospando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
