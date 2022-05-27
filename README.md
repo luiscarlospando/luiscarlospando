@@ -1,4 +1,4 @@
-![alt text](https://luiscarlospando.com/assets/images/logo.svg "Logo")
+![alt text](https://luiscarlospando.com/assets/images/avatar.svg "Logo")
 ### Hey, soy [Luis Carlos Pando](https://luiscarlospando.com) 👋
 Hola y bienvenido. Me llamo Luis Carlos Pando (aka "Mijo") un vato de Chihuahua, México, que vive con su bella esposa Alejandra ❤️. Me dedico a hacer cosas para el Internet y en mis ratos libres disfruto escuchar banditas tipo hardcore/whatevercore. También disfruto mucho jugar videojuegos 🕹️. 
 
