@@ -1,7 +1,7 @@
 ### Hey, soy [Luis Carlos Pando](https://luiscarlospando.com) 👋
-Hola, soy Luis Carlos Pando (also known as “Mijo”), un vato originario de Chihuahua, México que vive con su bella esposa Marissa ❤️ y se dedica a hacer cosas para el Internet. Musicalmente hablando, mis géneros favoritos son el punk y el hardcore y de ahí, sus respectivos sub-géneros. Algunas personas me conocen por haber creado y dedicado buena parte de mi vida a Hitz-Musik.net (RIP 😵) ― una comunidad dedicada a cubrir la música y la escena local de mi querido ranchito, Chihuahua. De eso solo me quedan recuerdos muy chidos.
+Hola 👋, soy Luis Carlos Pando (aka Mijo), un dude que vive con su bella esposa Marissa ❤️ en Chihuahua, México y que se dedica a hacer cosas para el Internet. Amo la música, pero tiendo a clavarme más en el hardcore y el punk. Algunos tal vez me ubiquen por haber creado Hitz-Musik.net (RIP 🪦) junto a unos buenos amigos. “El Hitz” era una comunidad dedicada a cubrir la música alternativa y la escena local de Chihuahua. De eso solo me quedan recuerdos muy chidos.
 
-Todo sobre mí está en mi [sitio](https://luiscarlospando.com) y en mi [blog](https://blog.luiscarlospando.com). También puedes contactarte conmigo en [Mastodon](https://mastodon.online/@mijo).
+Todo sobre mi está en mi [sitio](https://luiscarlospando.com) y en mi [blog](https://blog.luiscarlospando.com). También puedes contactarte conmigo en [Mastodon](https://social.lol/@mijo).
 
 - 🌱 Currently learning: ⚛️ React
 
