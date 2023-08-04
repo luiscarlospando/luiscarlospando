@@ -3,8 +3,6 @@ Hola 👋, soy Luis Carlos Pando (aka `Mijo`), un vato que vive en [Chihuahua, M
 
 Todo sobre mi está en mi [sitio](https://luiscarlospando.com) y en mi [blog](https://blog.luiscarlospando.com). También puedes contactarte conmigo en [Mastodon](https://social.lol/@mijo).
 
-- 🌱 Currently learning: ⚛️ React
-
 <!--
 **luiscarlospando/luiscarlospando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
