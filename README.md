@@ -1,7 +1,13 @@
 ### Hey, soy [Luis Carlos Pando](https://luiscarlospando.com) 👋
-Hola 👋, soy Luis Carlos Pando (aka `Mijo`), un vato que vive en [Chihuahua, México](https://es.wikipedia.org/wiki/Chihuahua_(Chihuahua)) con su bella esposa [Marissa ❤️](https://www.instagram.com/primitivegirl). Me dedico hacer cosas para el Internet, amo la música y me inclino más por géneros alternativos y ya si te quieres clavar mucho, lo que más me gusta es el hardcore y el punk. Algunos tal vez me ubiquen por haber creado [Hitz-Musik.net](https://hitz-musik.net) (RIP 🪦) junto a unos buenos amigos. "El Hitz" era una comunidad dedicada a cubrir la música alternativa y la escena local de Chihuahua. De eso solo me quedan recuerdos muy chidos.
+Hola 👋, soy Luis Carlos Pando (aka `Mijo`), un vato que vive en [Chihuahua, México](https://es.wikipedia.org/wiki/Chihuahua_(Chihuahua)) con su bella esposa [Marissa ❤️](https://www.instagram.com/primitivegirl). Me dedico [hacer cosas para el Internet](https://github.com/luiscarlospando), amo la música alternativa, en especial el hardcore y el punk. Algunos tal vez me ubiquen por haber creado [Hitz-Musik.net](https://hitz-musik.net) (RIP 🪦) junto a unos buenos amigos. "El Hitz" era una comunidad dedicada a cubrir la música alternativa y la escena local de Chihuahua. De eso solo me quedan recuerdos muy chidos.
 
-Todo sobre mi está en mi [sitio](https://luiscarlospando.com) y en mi [blog](https://blog.luiscarlospando.com). También puedes contactarte conmigo en [Mastodon](https://social.lol/@mijo).
+- 🌐 [Homepage](https://luiscarlospando.com)
+- ✍️ [Blog](https://blog.luiscarlospando.com)
+- 🕓 [Now](https://luiscarlospando.com/now)
+- 🛠️ [Uses](https://luiscarlospando.com/uses)
+
+- 🐘 [Mastodon](https://social.lol/@mijo)
+- 💖 [Statuslog](https://mijo.status.lol/)
 
 <!--
 **luiscarlospando/luiscarlospando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
