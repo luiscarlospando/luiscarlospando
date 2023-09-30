@@ -5,7 +5,6 @@ Hola 👋, soy Luis Carlos Pando (aka `Mijo`), un vato que vive en [Chihuahua, M
 - ✍️ [Blog](https://blog.luiscarlospando.com)
 - 🕓 [Now](https://luiscarlospando.com/now)
 - 🛠️ [Uses](https://luiscarlospando.com/uses)
-
 - 🐘 [Mastodon](https://social.lol/@mijo)
 - 💖 [Statuslog](https://mijo.status.lol/)
 
