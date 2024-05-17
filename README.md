@@ -1,4 +1,4 @@
-# Hola, soy [Luis Carlos Pando](https://luiscarlospando.com) 👋 [![omg.lol](https://omg.8bitsqu.id/?user=mijo)](https://mijo.omg.lol)
+# Hola, soy [Luis Carlos Pando](https://luiscarlospando.com) 👋 [![omg.lol](https://omg.8bitsqu.id/?user=mijo)](https://mijo.omg.lol) ![](https://dcbadge.limes.pink/api/shield/86571896581132288?style=flat&theme=discord-inverted)
 
 Hola 👋, soy Luis Carlos Pando (aka `Mijo`), un vato que vive en [Chihuahua, México](https://es.wikipedia.org/wiki/Chihuahua_(Chihuahua)) con su bella esposa [Marissa ❤️](https://www.instagram.com/primitivegirl). Me dedico a [hacer cosas para el Internet](https://github.com/luiscarlospando), amo la música alternativa, en especial el hardcore y el punk. Algunos tal vez me ubiquen por haber creado [Hitz-Musik.net](https://hitz-musik.net) (RIP 🪦) junto a unos buenos amigos. "El Hitz" era una comunidad dedicada a cubrir la música alternativa y la escena local de Chihuahua. De eso solo me quedan recuerdos muy chidos.
 
