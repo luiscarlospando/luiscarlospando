@@ -11,6 +11,7 @@ Puedes saber más sobre mi en mi [sitio personal](https://luiscarlospando.com).
 - 🕓 [Now](https://luiscarlospando.com/now)
 - 🛠️ [Uses](https://luiscarlospando.com/uses)
 - 🐘 [Mastodon](https://social.lol/@mijo)
+- 🦋 [Bluesky](https://bsky.app/profile/luiscarlospando.com)
 - 💖 [Statuslog](https://mijo.status.lol/)
 
 <!--
