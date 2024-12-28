@@ -9,6 +9,7 @@ Puedes saber más sobre mi en mi [sitio personal](https://luiscarlospando.com).
 - 🌐 [Homepage](https://luiscarlospando.com)
 - ✍️ [Blog](https://blog.luiscarlospando.com)
 - 🕓 [Now](https://luiscarlospando.com/now)
+- 🔗 [Links](https://luiscarlospando.com/links)
 - 🛠️ [Uses](https://luiscarlospando.com/uses)
 - 🐘 [Mastodon](https://social.lol/@mijo)
 - 🦋 [Bluesky](https://bsky.app/profile/luiscarlospando.com)
