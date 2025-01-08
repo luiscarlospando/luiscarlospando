@@ -6,10 +6,12 @@ Puedes saber más sobre mi en mi [sitio personal](https://luiscarlospando.com).
 
 ## Links
 
-- 🌐 [Homepage](https://luiscarlospando.com)
-- ✍️ [Blog](https://blog.luiscarlospando.com)
-- 🕓 [Now](https://luiscarlospando.com/now)
+- 🌐 [Homepage](https://luiscarlospando.com/)
+- ✍️ [Blog](https://blog.luiscarlospando.com/)
 - 🔗 [Links](https://luiscarlospando.com/links)
+- 🪪 [Contacto](https://luiscarlospando.com/contacto)
+- 🧑‍💻 [Development Stuff](https://luiscarlospando.com/developer)
+- 🕓 [Now](https://luiscarlospando.com/now)
 - 🛠️ [Uses](https://luiscarlospando.com/uses)
 - 🐘 [Mastodon](https://social.lol/@mijo)
 - 🦋 [Bluesky](https://bsky.app/profile/luiscarlospando.com)
