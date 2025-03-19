@@ -13,6 +13,7 @@ Puedes saber más de mi en mi [sitio personal](https://luiscarlospando.com).
 - 🧑‍💻 [Development Stuff](https://luiscarlospando.com/developer)
 - 🕓 [Now](https://luiscarlospando.com/now)
 - 🛠️ [Uses](https://luiscarlospando.com/uses)
+- 🔑 [Llaves públicas](https://luiscarlospando.com/keys)
 - 🐘 [Mastodon](https://social.lol/@mijo)
 - 🦋 [Bluesky](https://bsky.app/profile/luiscarlospando.com)
 - 💖 [Statuslog](https://mijo.status.lol/)
