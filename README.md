@@ -8,6 +8,7 @@ Hola 👋, me llamo Luis Carlos Pando, aka `Mijo` (/ˈmiːhoʊ/). Soy un vato de
 - ✍️ [Blog](https://blog.luiscarlospando.com/)
 - 🔗 [Links](https://luiscarlospando.com/links)
 - 🪪 [Contacto](https://luiscarlospando.com/contacto)
+- 📸 [Fotos](https://luiscarlospando.com/photos)
 - 🐘 [Mastodon](https://social.lol/@mijo)
 - 🦋 [Bluesky](https://bsky.app/profile/luiscarlospando.com)
 - 🧑‍💻 [Development Stuff](https://luiscarlospando.com/developer)
