@@ -14,7 +14,7 @@ Hola 👋, me llamo Luis Carlos Pando, aka `Mijo` (/ˈmiːhoʊ/). Soy un vato de
 - 🧑‍💻 [Development Stuff](https://luiscarlospando.com/developer)
 - 🕓 [Now](https://luiscarlospando.com/now)
 - 🛠️ [Uses](https://luiscarlospando.com/uses)
-- ✌️ [Guestbook](https://luiscarlospando.com/guestbook)
+- 📖 [Guestbook](https://luiscarlospando.com/guestbook)
 - 🔑 [Llaves públicas](https://luiscarlospando.com/keys)
 - 💖 [Statuslog](https://status.luiscarlospando.com/)
 
