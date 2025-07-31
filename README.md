@@ -1,6 +1,6 @@
 # Hola, soy [Luis Carlos Pando](https://luiscarlospando.com) 👋 [![omg.lol](https://omg.8bitsqu.id/?user=mijo)](https://mijo.luiscarlospando.com) ![](https://dcbadge.limes.pink/api/shield/86571896581132288?style=flat&theme=discord-inverted)
 
-Hola 👋, me llamo Luis Carlos Pando, aka `Mijo` (/ˈmiːhoʊ/). Soy un vato de [Chihuahua, México](https://es.wikipedia.org/wiki/Chihuahua_(Chihuahua)) que se dedica a [hacer cosas para el Internet](https://github.com/luiscarlospando) y que ama la música, especialmente el punk y el hardcore. Algunos tal vez me ubiquen por haber creado [Hitz-Musik.net](https://hitz-musik.net) (RIP 🪦) junto a unos buenos compas. "El Hitz" era una comunidad dedicada a cubrir la música y la escena local de Chihuahua. También estaba chido el cotorreo de armar toquines. De eso solo me quedan recuerdos muy chidos.
+Hola 👋, soy Luis Carlos Pando, aka `Mijo` (/ˈmiːhoʊ/), un vato de [Chihuahua, México](https://es.wikipedia.org/wiki/Chihuahua_(Chihuahua)) que [hace cosas para el Internet](https://github.com/luiscarlospando). Soy amante de la música, especialmente el punk, metal y el hardcore. Algunos tal vez me ubiquen por haber creado [Hitz-Musik.net](https://hitz-musik.net) (RIP 🪦) junto a unos buenos compas. "El Hitz" era una comunidad dedicada a apoyar la escena local de Chihuahua. Estaba chido el cotorreo de armar toquines pero de eso solo me quedan puros buenos recuerdos.
 
 ## Links
 
