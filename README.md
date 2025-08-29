@@ -16,6 +16,7 @@ Te invito a visitar mis enlaces personales, que simple vista parecen muchos pero
 - 🧑‍💻 [Development Stuff](https://luiscarlospando.com/developer)
 - 🕓 [Now](https://luiscarlospando.com/now)
 - 🛠️ [Uses](https://luiscarlospando.com/uses)
+- 🎧 [Mis álbumes más escuchados](https://luiscarlospando.com/music)
 - 📖 [Guestbook](https://luiscarlospando.com/guestbook)
 - 🔑 [Llaves públicas](https://luiscarlospando.com/keys)
 - 💖 [Statuslog](https://status.luiscarlospando.com/)
