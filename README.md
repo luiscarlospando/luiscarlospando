@@ -6,7 +6,7 @@ Te invito a visitar mis enlaces personales, que simple vista parecen muchos pero
 
 ## Links
 
-- 🌐 [Homepage](https://luiscarlospando.com/)
+- 🌐 [Personal website](https://luiscarlospando.com/)
 - ✍️ [Blog](https://blog.luiscarlospando.com/)
 - 🔗 [Links](https://luiscarlospando.com/links)
 - 🪪 [Contacto](https://luiscarlospando.com/contacto)
