@@ -1,8 +1,8 @@
 # Hola, soy [Luis Carlos Pando](https://luiscarlospando.com) 👋 [![omg.lol](https://omg.8bitsqu.id/?user=mijo)](https://mijo.luiscarlospando.com) ![](https://dcbadge.limes.pink/api/shield/86571896581132288?style=flat&theme=discord-inverted)
 
-Hola 👋, soy Luis Carlos Pando, aka `Mijo` (/ˈmiːhoʊ/), un vato de [Chihuahua, México](https://es.wikipedia.org/wiki/Chihuahua_(Chihuahua)) que [hace cosas para el Internet](https://github.com/luiscarlospando). Soy amante de la música, especialmente el punk, metal y el hardcore. Algunos tal vez me ubiquen por haber creado [Hitz-Musik.net](https://hitz-musik.net) (RIP 🪦) junto a unos buenos amigos.
+Hola 👋, soy Luis Carlos Pando, aka `Mijo` (/ˈmiːhoʊ/), un vato de [Chihuahua, México](https://es.wikipedia.org/wiki/Chihuahua_(Chihuahua)) que [hace cosas para el Internet](https://github.com/luiscarlospando). Gracias a mi amor por las computadoras 👨‍💻 y el Internet 🌐 es que tengo [mi sitio](https://luiscarlospando.com/).
 
-Te invito a visitar mis enlaces personales, que simple vista parecen muchos pero es solo para segmentar y organizar mejor todo lo que tengo y hago en línea.
+Visita mis links personales para conocer más de mi:
 
 ## Links
 
