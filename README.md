@@ -2,7 +2,7 @@
 
 Hola 👋, soy Luis Carlos Pando, aka `Mijo` (/ˈmiːhoʊ/), un vato de [Chihuahua, México](https://es.wikipedia.org/wiki/Chihuahua_(Chihuahua)) que [hace cosas para el Internet](https://github.com/luiscarlospando). Gracias a mi amor por las computadoras 👨‍💻 y el Internet 🌐 es que tengo [mi sitio](https://luiscarlospando.com/).
 
-Visita mis links personales para conocer más de mi:
+Visita mis diferentes links para saber más:
 
 ## Links
 
