@@ -14,7 +14,7 @@ Hola 👋, soy Luis Carlos Pando, aka `Mijo` (/ˈmiːhoʊ/), un vato de [Chihuah
 - 🕓 [Now](https://luiscarlospando.com/now)
 - 🛠️ [Uses](https://luiscarlospando.com/uses)
 - 🎧 [Mis álbumes más escuchados](https://luiscarlospando.com/music)
-- ❤️ [Canciones favoritas recientes](https://luiscarlospando.com/music/loved-tracks/)
+- ❤️ [Canciones favoritas](https://luiscarlospando.com/music/loved-tracks/)
 - 📀 [Playlist (Crucial Tracks)](https://luiscarlospando.com/music/crucial-tracks/)
 - 📖 [Guestbook](https://luiscarlospando.com/guestbook)
 - 🔑 [Llaves públicas](https://luiscarlospando.com/keys)
