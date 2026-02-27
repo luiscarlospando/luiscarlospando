@@ -13,10 +13,11 @@ Hola 👋, soy Luis Carlos Pando, aka `Mijo` (/ˈmiːhoʊ/), un vato de [Chihuah
 - 🧑‍💻 [Development Stuff](https://luiscarlospando.com/developer)
 - 🕓 [Now](https://luiscarlospando.com/now)
 - 🛠️ [Uses](https://luiscarlospando.com/uses)
-- 🎧 [Mis álbumes más escuchados](https://luiscarlospando.com/music)
+- 🎧 [Lo que escucho](https://luiscarlospando.com/music)
 - ❤️ [Canciones favoritas](https://luiscarlospando.com/music/loved-tracks/)
-- 📀 [Playlist (Crucial Tracks)](https://luiscarlospando.com/music/crucial-tracks/)
+- 📀 [Crucial Tracks](https://luiscarlospando.com/music/crucial-tracks/)
 - 📖 [Guestbook](https://luiscarlospando.com/guestbook)
+- 🖌️ [Paintbook](https://luiscarlospando.com/paintbook)
 - 🔑 [Llaves públicas](https://luiscarlospando.com/keys)
 - 💖 [Statuslog](https://status.luiscarlospando.com/)
 
